@@ -1,0 +1,6 @@
+
+[
+  {"isbn": "978-1", "title": "Effective Java", "author": "Bloch", "pages": 416},
+  {"isbn": "978-2", "title": "Kotlin in Action", "author": "Jemerov", "pages": 360},
+  {"isbn": "978-3", "title": "Java Concurrency in Practice", "author": "Goetz", "pages": 384}
+]
