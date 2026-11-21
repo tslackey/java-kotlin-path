@@ -1,0 +1,1 @@
+books.json stays on the main resource path; solutions reuse src/main/resources.
